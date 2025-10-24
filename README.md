@@ -48,7 +48,7 @@ $$
 
 ```bash
 git clone https://github.com/DavidAvendanoUSA/Proyecto-Segundo-Corte.git
-cd kotlin-linear-regression-web
+cd Proyecto-Segundo-Corte
 ```
 
 Reemplaza `<owner>/<repo>` por el repositorio real (por ejemplo `DylanDD17/kotlin-linear-regression-web`).
